@@ -100,6 +100,7 @@ to the system
 
 ls the current location will show the files that holds the user's flag.
 ![](images/4-2.png)
+
 Got it. Now onto the final flag
 
 # Getting the root
@@ -141,12 +142,14 @@ let's type whoami, to see who we are right now.
 whoami
 ```
 ![](images/5-3.png)
+
 Alright let's just go straight to the last flag.
 
 ```
 cat / root / root.txt
 ```
 ![](images/5-4.png)
+
 And we're done
 
 
